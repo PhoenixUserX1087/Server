@@ -1,0 +1,151 @@
+[13:10:41] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[13:10:41] [Server thread/INFO]: Loading properties
+[13:10:42] [Server thread/INFO]: Default game type: SURVIVAL
+[13:10:42] [Server thread/INFO]: This server is running Paper version git-Paper-1620 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[13:10:42] [Server thread/INFO]: Debug logging is disabled
+[13:10:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:10:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:10:43] [Server thread/INFO]: Generating keypair
+[13:10:44] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[13:10:44] [Server thread/INFO]: Using default channel type
+[13:10:45] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[13:10:46] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.1.1
+[13:10:46] [Server thread/INFO]: [ViaVersion] ViaVersion 5.1.1 is now loaded. Registering protocol transformers and injecting...
+[13:10:47] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[13:10:47] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[13:10:47] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[13:10:48] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[13:10:48] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[13:10:48] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.1.1
+[13:10:48] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v4.0.3
+[13:10:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:10:48] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.3
+[13:10:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:10:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:10:48] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[13:10:48] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[13:10:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:10:48] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:10:48] [Server thread/INFO]: Preparing level "world"
+[13:10:48] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:10:48] [Server thread/INFO]: Mob Spawn Range: 4
+[13:10:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:10:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:10:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:10:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[13:10:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:10:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:10:49] [Server thread/INFO]: Random Lighting Updates: false
+[13:10:49] [Server thread/INFO]: Structure Info Saving: true
+[13:10:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:10:49] [Server thread/INFO]: Max TNT Explosions: 100
+[13:10:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:10:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:10:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:10:49] [Server thread/INFO]: View Distance: 4
+[13:10:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:10:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:10:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:10:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:10:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:10:49] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:10:49] [Server thread/INFO]: Mob Spawn Range: 4
+[13:10:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[13:10:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:10:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:10:49] [Server thread/INFO]: Random Lighting Updates: false
+[13:10:49] [Server thread/INFO]: Structure Info Saving: true
+[13:10:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:10:49] [Server thread/INFO]: Max TNT Explosions: 100
+[13:10:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:10:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:10:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:10:49] [Server thread/INFO]: View Distance: 4
+[13:10:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:10:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:10:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:10:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:10:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:10:49] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:10:49] [Server thread/INFO]: Mob Spawn Range: 4
+[13:10:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:10:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[13:10:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:10:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:10:49] [Server thread/INFO]: Random Lighting Updates: false
+[13:10:49] [Server thread/INFO]: Structure Info Saving: true
+[13:10:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:10:49] [Server thread/INFO]: Max TNT Explosions: 100
+[13:10:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:10:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:10:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:10:49] [Server thread/INFO]: View Distance: 4
+[13:10:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:10:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:10:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:10:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:10:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:10:49] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1995738442798845485)
+[13:10:50] [Server thread/INFO]: Preparing spawn area: 1%
+[13:10:51] [Server thread/INFO]: Preparing start region for level 1 (Seed: -1995738442798845485)
+[13:10:51] [Server thread/INFO]: Preparing start region for level 2 (Seed: -1995738442798845485)
+[13:10:51] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.1.1
+[13:10:51] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.1.1
+[13:10:51] [Server thread/INFO]: Done (2.958s)! For help, type "help" or "?"
+[13:10:51] [Server thread/INFO]: Timings Reset
+[13:10:51] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2 (340)
+[13:10:51] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we will prioritize issues with legacy Minecraft versions less. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[13:10:52] [Craft Scheduler Thread - 2/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[13:10:53] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.2.0, you're on: 5.1.1
+[13:11:28] [User Authenticator #1/INFO]: UUID of player PhoenixUserx1087 is f0c6f3c9-52c8-3310-8fee-1debf1af4b54
+[13:11:28] [Server thread/INFO]: PhoenixUserx1087[/[0:0:0:0:0:0:0:1]:46904] logged in with entity id 41 at ([world]21.925530866176285, 69.0, -5.66192381754791)
+[13:13:44] [Server thread/INFO]: PhoenixUserx1087 issued server command: /give @s elytra
+[13:13:44] [Server thread/INFO]: PhoenixUserx1087 has reached the goal [Sky's the Limit]
+[13:13:44] [Server thread/INFO]: [PhoenixUserx1087: Given [Elytra] * 1 to PhoenixUserx1087]
+[13:14:32] [Server thread/INFO]: PhoenixUserx1087 issued server command: /gamemode
+[13:14:36] [Server thread/INFO]: PhoenixUserx1087 issued server command: /gamemode c
+[13:14:36] [Server thread/INFO]: [PhoenixUserx1087: Set own game mode to Creative Mode]
+[13:15:07] [Server thread/INFO]: PhoenixUserx1087 issued server command: /gamemode s
+[13:15:07] [Server thread/INFO]: [PhoenixUserx1087: Set own game mode to Survival Mode]
+[13:15:25] [Server thread/INFO]: PhoenixUserx1087 lost connection: Disconnected
+[13:15:25] [Server thread/INFO]: PhoenixUserx1087 left the game
+[13:15:37] [User Authenticator #2/INFO]: UUID of player PhoenixUserx1087 is f0c6f3c9-52c8-3310-8fee-1debf1af4b54
+[13:15:37] [Server thread/INFO]: PhoenixUserx1087[/[0:0:0:0:0:0:0:1]:42822] logged in with entity id 74 at ([world]19.699999988079085, 67.0, -15.699999988079085)
+[13:19:24] [Server thread/INFO]: Given [Chorus Fruit] * 1 to PhoenixUserx1087
+[13:19:40] [Server thread/WARN]: PhoenixUserx1087 moved wrongly!
+[13:20:03] [Server thread/INFO]: PhoenixUserx1087 lost connection: Disconnected
+[13:20:03] [Server thread/INFO]: PhoenixUserx1087 left the game
+[13:20:51] [User Authenticator #3/INFO]: UUID of player PhoenixUserx1087 is f0c6f3c9-52c8-3310-8fee-1debf1af4b54
+[13:20:51] [Server thread/INFO]: PhoenixUserx1087[/[0:0:0:0:0:0:0:1]:47058] logged in with entity id 114 at ([world]27.08492996410726, 64.0, -42.300000011920936)
+[13:21:51] [Server thread/INFO]: PhoenixUserx1087 fell from a high place
+[13:23:43] [Server thread/INFO]: PhoenixUserx1087 issued server command: /give @s chorus_fruit
+[13:23:43] [Server thread/INFO]: [PhoenixUserx1087: Given [Chorus Fruit] * 1 to PhoenixUserx1087]
+[13:23:51] [Server thread/WARN]: PhoenixUserx1087 moved wrongly!
+[13:23:56] [Server thread/INFO]: PhoenixUserx1087 lost connection: Disconnected
+[13:23:56] [Server thread/INFO]: PhoenixUserx1087 left the game
